@@ -46,7 +46,7 @@
         <version>2.22.0</version>
         <configuration>
           <!-- The argLine placeholder will be filled by the JaCoCo maven plugin. For details see https://www.eclemma.org/jacoco/trunk/doc/prepare-agent-mojo.html -->
-          <argLine>@{argLine}</argLine>
+          <argLine></argLine>
         </configuration>
       </plugin>
       <plugin>
